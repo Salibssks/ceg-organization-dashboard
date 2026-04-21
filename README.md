@@ -18,6 +18,7 @@ Briefly write the exact business ask:
 -normalized organization names
 -created search-friendly fields
 -built Tableau dashboard
+- Dash board link - https://public.tableau.com/app/profile/mohammad.salib/viz/OrganizationAnalysisDashboard/Dashboard1
 
 5. Tech Stack
 Python
