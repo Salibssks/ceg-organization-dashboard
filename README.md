@@ -1,3 +1,4 @@
+<img width="1232" height="130" alt="Screenshot 2026-04-21 at 8 57 03 PM" src="https://github.com/user-attachments/assets/4634f64f-0104-480a-a4c5-80d83c399bed" />
 1. Project Title
 
 Organization Data Cleaning & Tableau Dashboard Automation | CEG Use Case
